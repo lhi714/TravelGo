@@ -1,9 +1,9 @@
-package com.csform.android.uiapptemplate.util;
+package com.example.almig.travelgo.util;
 
 import android.graphics.Bitmap.Config;
 import android.widget.ImageView;
 
-import com.csform.android.uiapptemplate.R;
+import com.example.almig.travelgo.R;
 import com.nostra13.universalimageloader.core.DisplayImageOptions;
 import com.nostra13.universalimageloader.core.ImageLoader;
 import com.nostra13.universalimageloader.core.assist.ImageScaleType;

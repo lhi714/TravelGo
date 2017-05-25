@@ -1,4 +1,4 @@
-package com.csform.android.uiapptemplate.font;
+package com.example.almig.travelgo.font;
 
 import android.content.Context;
 import android.graphics.Typeface;

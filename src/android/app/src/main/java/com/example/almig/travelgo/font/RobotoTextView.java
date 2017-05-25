@@ -1,11 +1,11 @@
-package com.csform.android.uiapptemplate.font;
+package com.example.almig.travelgo.font;
 
 import android.content.Context;
 import android.content.res.TypedArray;
 import android.graphics.Typeface;
 import android.util.AttributeSet;
 
-import com.csform.android.uiapptemplate.R;
+import com.example.almig.travelgo.R;
 
 public class RobotoTextView extends android.support.v7.widget.AppCompatTextView {
 
